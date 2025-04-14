@@ -60,9 +60,9 @@ This project implements a Deep Q-Network (DQN) agent to play the CarRacing-v3 ga
 ## File Structure
 
 - `CarRacing_Agent.ipynb` / `.py` : Main code for training and evaluation.
-- `car_racing_dqn_episode_XX.pth` : Model checkpoints saved during training.
+- `car_racing_dqn_episode_200.pth` : Model checkpoints saved during training.
 - `car_racing_training_rewards.png` : Training reward plot.
-- `evaluation.mp4` : Video of the agent’s performance.
+- `Model200.mp4` : Video of the agent’s performance.
 - `README.md` : This file.
 
 ---
