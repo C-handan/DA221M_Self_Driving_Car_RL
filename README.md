@@ -41,7 +41,7 @@ This project implements a Deep Q-Network (DQN) agent to play the CarRacing-v3 ga
 ### 1. Training the Agent
 
 - Run the main training script (e.g., `CarRacing_Agent.ipynb` or the provided Python script).
-- The agent will train for a specified number of episodes, periodically saving model checkpoints (e.g., `car_racing_dqn_episode_XX.pth`).
+- The agent will train for a specified number of episodes, periodically saving model checkpoints (e.g., `car_racing_dqn_episode_200.pth`).
 - Training progress (rewards per episode) will be plotted and saved as `car_racing_training_rewards.png`.
 
 ### 2. Evaluating the Agent
